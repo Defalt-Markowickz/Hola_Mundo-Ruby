@@ -3,7 +3,7 @@
 
 ## Install
 
-### 1. git clone
+### 1. git clone https://github.com/Defalt-Markowickz/Hola_Mundo-Ruby.git
 
 ### 2. cd Hola_Mundo-Ruby/
 
